@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DBSubVC" customModule="DBN" customModuleProvider="target">
+            <connections>
+                <outlet property="tableView" destination="jaf-nM-POi" id="967-Sq-vHv"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="jaf-nM-POi">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="ESS-VV-JLp"/>
+                        <outlet property="delegate" destination="-1" id="kSA-bp-Agc"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="jaf-nM-POi" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="YW9-9Y-d7S"/>
+                <constraint firstAttribute="bottom" secondItem="jaf-nM-POi" secondAttribute="bottom" id="bpc-jX-IYI"/>
+                <constraint firstItem="jaf-nM-POi" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="f5m-jC-nhG"/>
+                <constraint firstAttribute="trailing" secondItem="jaf-nM-POi" secondAttribute="trailing" id="o7y-m8-tsU"/>
+            </constraints>
+            <point key="canvasLocation" x="561" y="290"/>
+        </view>
+    </objects>
+</document>

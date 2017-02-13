@@ -1,0 +1,54 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "71afbe27-101f-4a42-aacc-cf748110c244++3271" : {
+
+    },
+    "10f44bad-eb15-43b2-8dc8-cbbc5ce3210e++3271" : {
+
+    },
+    "AB1E31B10E359D134CF2E671E9367254E605FCDF" : {
+
+    },
+    "71afbe27-101f-4a42-aacc-cf748110c244++865" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71afbe27-101f-4a42-aacc-cf748110c244++3271" : 0,
+    "10f44bad-eb15-43b2-8dc8-cbbc5ce3210e++3271" : 0,
+    "AB1E31B10E359D134CF2E671E9367254E605FCDF" : 9223372036854775807,
+    "71afbe27-101f-4a42-aacc-cf748110c244++865" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0939BD68-4841-4DDC-A12F-682907A5CE19",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71afbe27-101f-4a42-aacc-cf748110c244++3271" : "DBNlx\/",
+    "10f44bad-eb15-43b2-8dc8-cbbc5ce3210e++3271" : "DBN\/",
+    "AB1E31B10E359D134CF2E671E9367254E605FCDF" : "DBND3.0\/",
+    "71afbe27-101f-4a42-aacc-cf748110c244++865" : "DBNDD%E5%89%AF%E6%9C%AC%202\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DBN",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DBN.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/lxdemo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10f44bad-eb15-43b2-8dc8-cbbc5ce3210e++3271"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/LXDBN",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71afbe27-101f-4a42-aacc-cf748110c244++3271"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/LXDBN",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71afbe27-101f-4a42-aacc-cf748110c244++865"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/LXDBN",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AB1E31B10E359D134CF2E671E9367254E605FCDF"
+    }
+  ]
+}
